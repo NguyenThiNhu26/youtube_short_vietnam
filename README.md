@@ -1,7 +1,7 @@
 # youtube_short_vietnam
 # YouTube Shorts Vietnam — Phân Tích Dữ Liệu
 
-![Dashboard Preview](dashboard/dashboard_overview.png)
+
 
 > **Phân tích dữ liệu end-to-end** — từ thu thập dữ liệu qua YouTube Data API, tiền xử lý & NLP bằng Python, đến trực quan hóa trên Power BI — khám phá hành vi xem, tương tác và xu hướng nội dung YouTube Shorts tại thị trường Việt Nam giai đoạn 2018–2025.
 
